@@ -8,7 +8,7 @@ I teach in at a well-known university in a well-known computer science course. I
   I write code 💻 and build software-based generative 🎲 ecosystems to create music ♬.
 </p>
 
-![gelvinwhite](https://www.gelvinwhite.com/assets/gelvinwhite02.jpg "gelvinwhite")
+![gelvinwhite](https://gelvinwhite.com/assets/gelvinwhite02.jpg "gelvinwhite")
 
 My primary contributions are in the form of C-based music libraries, Native Instruments®️ Kontakt®️ Scripts, and in step-by-step instruction for programming musical-based programming in C and Native Instruments®️ Kontakt®️ Libraries.
 
