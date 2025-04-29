@@ -12,10 +12,13 @@ My primary contributions are in the form of C-based music libraries, Native Inst
 
 My passions also extend to computer science pedagogy and game programming.
 
+## Latest Updates
+* [See my growing collection of .plan files](https://github.com/guyewhite/.plan)
+
 ## Current Projects
 * [CS50 Educator Workshop](https://cs50.harvard.edu/workshop)
 * [FAQ50](https://cs50.harvard.edu/x/faqs)
-* [Notes50](https://cs50.harvard.edu/x/2024/notes/3/)
+* [Notes50](https://cs50.harvard.edu/x/2025/notes/3/)
 
 ## Academia
 * Graduate Certificate in Programming *(Harvard Extension School)*
