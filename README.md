@@ -27,7 +27,7 @@ My passions also extend to computer science pedagogy and game programming.
 * Doctor of Education *(University of La Verne)*
 
 ## Code
-* [g-based](https://github.com/guyewhite/g-based): An indispensable template for Google-authenticated flask applications.
+* [g-based](https://github.com/guyewhite/g-based): An indispensable template for Google-authenticated Flask applications.
 * [convertNoteToMidi](https://github.com/guyewhite/convertNoteToMidi): A useful C library that converts any single musical note value and octave to a midi note.
 * [CSVto3Dstrings](https://github.com/guyewhite/CSVto3Dstrings): A useful Python-based tool to convert any CSV file into a 3-d array of strings in C.
 * [generateMidi](https://github.com/guyewhite/generateMidi): A useful tool create midi files for one or more of the chord scales.
